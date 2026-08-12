@@ -6,7 +6,7 @@ const projects = [
     title: "Nahdat Al-Sham Web Platform",
     category: "Web Platform",
     description:
-      "A modern web platform built for Nahdat Al-Sham, combining a responsive front-end with API integration and a Telegram bot to create a connected digital experience.",
+      "A modern web Platform built for Nahdat Al-Sham, combining a responsive front-end with API integration and a Telegram bot to create a connected digital experience.",
     status: "Completed",
     technologies: [
       "Next.js",
